@@ -1,2 +1,2 @@
-# Responsive-Footer
-Hi i'm created Responsive Footer 
+Project Link: 
+https://sattunikam.github.io/Responsive-Footer/
